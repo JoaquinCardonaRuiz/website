@@ -1,4 +1,9 @@
 # Joaquin Cardona Ruiz
+## About Me
+I'm a Software Engineer with a passion for innovative solutions and the technologies that will shape the future. I have 2 years of experience in Big Data and Machine Learning research, and 6 years of teaching myself to come up with and develop software ideas. I'm inspired by people, and the amazing things we can do when we are allowed to be creative. My dream is getting machines to do impossible things: to learn, to grow, and to solve problems we couldn't ever solve.  
+
+Some of the tools I've gotten great at along the way: Python, TensorFlow + Keras, Numpy and SciPy, NLTK, SQL, MongoDB, Flask, RESTful APIs.
+
 ## Documents
 * <a href="/website/cv">Curriculum Vitae<a/>
 
