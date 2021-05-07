@@ -4,6 +4,8 @@ I'm a Software Engineer with a passion for innovative solutions and the technolo
 
 Some of the tools I've gotten great at along the way: Python, TensorFlow + Keras, Numpy and SciPy, NLTK, SQL, MongoDB, Flask, RESTful APIs.
 
+Some of the talents I've acquired: Statistics, parallel computing, teamwork, lateral thinking, project management and a great deal of patience.
+
 ## Documents
 * <a href="/website/cv">Curriculum Vitae<a/>
 
