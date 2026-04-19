@@ -7,8 +7,8 @@ Some of the tools I've gotten great at along the way: Python, TensorFlow + Keras
 Some of the talents I've acquired: Statistics, parallel computing, teamwork, lateral thinking, project management and a great deal of patience.
 
 ## Documents
-* <a href="/website/cv">Curriculum Vitae<a/>
+* <a href="/docs/cv">Curriculum Vitae<a/>
 
 ## Published Research
-* <a href="/website/paper2018">Categorization of text-based forum posts using neural networks</a>
-* <a href="/website/paper2019">Recurrences, variations, and meaning disputes in the first presidential debates in Argentinian history</a>
+* <a href="/docs/paper2018">Categorization of text-based forum posts using neural networks</a>
+* <a href="/docs/paper2019">Recurrences, variations, and meaning disputes in the first presidential debates in Argentinian history</a>
