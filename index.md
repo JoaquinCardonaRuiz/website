@@ -1,10 +1,10 @@
 # Joaquin Cardona Ruiz
 ## About Me
-I'm a Software Engineer with a passion for innovative solutions and the technologies that will shape the future. I have 2 years of experience in Big Data and Machine Learning research, and 6 years of teaching myself to come up with and develop software ideas. I'm inspired by people, and the amazing things we can do when we are allowed to be creative. My dream is getting machines to do impossible things: to learn, to grow, and to solve problems we couldn't ever solve.  
+I'm a researcher in Natural Language Processing and Computational Linguistics. I recently completed an MSc in Artificial Intelligence at the Vrije Universiteit Amsterdam and the University of Amsterdam, where my thesis work on compositional semantic parsing was published at CMCL 2026, co-authored with Antske Fokkens and Lucia Donatelli.
 
-Some of the tools I've gotten great at along the way: Python, TensorFlow + Keras, Numpy and SciPy, NLTK, SQL, MongoDB, Flask, RESTful APIs.
+My research investigates compositional generalisation in semantic parsing. Specifically, how models can be designed to capture richer syntactic structure without sacrificing tractability. I'm broadly interested in linguistically motivated approaches to language understanding, the interface between syntax and semantics, and evaluation methodology for structured prediction tasks.
 
-Some of the talents I've acquired: Statistics, parallel computing, teamwork, lateral thinking, project management and a great deal of patience.
+Alongside my research, I work as a Data Engineer at Abcam (Danaher), where I've spent the past four years building data infrastructure and pipelines that support analytics and machine learning applications. My work sits at the intersection of data engineering and applied ML, collaborating closely with data science teams to bring models from experimentation into production systems. Before that, I was a Student Reseearcher in NLP at the National University of Technology in Argentina, applying computational methods to the study of political discourse.
 
 ## Documents
 * <a href="/docs/cv">Curriculum Vitae<a/>
