@@ -1,14 +1,29 @@
-# Joaquin Cardona Ruiz
+# Joaquín Cardona Ruiz
+
 ## About Me
-I'm a researcher in Natural Language Processing and Computational Linguistics. I recently completed an MSc in Artificial Intelligence at the Vrije Universiteit Amsterdam and the University of Amsterdam, where my thesis work on compositional semantic parsing was published at CMCL 2026, co-authored with Antske Fokkens and Lucia Donatelli.
+I'm a researcher in Natural Language Processing and Computational Linguistics. 
+I recently completed an MSc in Artificial Intelligence at the Vrije Universiteit 
+Amsterdam and the University of Amsterdam, specialising in NLP and Computational 
+Linguistics. Alongside my research, I work as a Data Engineer at Abcam (Danaher), 
+building data infrastructure and collaborating with data science teams on machine 
+learning systems.
 
-My research investigates compositional generalisation in semantic parsing. Specifically, how models can be designed to capture richer syntactic structure without sacrificing tractability. I'm broadly interested in linguistically motivated approaches to language understanding, the interface between syntax and semantics, and evaluation methodology for structured prediction tasks.
+[LinkedIn](https://www.linkedin.com/in/joaquin-cardona/) | 
+[Curriculum Vitae](/docs/cv)
 
-Alongside my research, I work as a Data Engineer at Abcam (Danaher), where I've spent the past four years building data infrastructure and pipelines that support analytics and machine learning applications. My work sits at the intersection of data engineering and applied ML, collaborating closely with data science teams to bring models from experimentation into production systems. Before that, I was a Student Reseearcher in NLP at the National University of Technology in Argentina, applying computational methods to the study of political discourse.
+## News
+- **Apr 2026** — Paper accepted at CMCL 2026 (ACL Anthology). Poster presentation 
+  at Palma de Mallorca, May 2026.
 
-## Documents
-* <a href="/docs/cv">Curriculum Vitae<a/>
+## Research
+My work focuses on compositional approaches to language and meaning, and the 
+interplay between symbolic and neural representations in models of language 
+understanding. I am interested in how linguistic structure can inform the design 
+and evaluation of AI systems, and in what computational models can reveal about 
+human language and cognition.
 
-## Published Research
-* <a href="/docs/paper2018">Categorization of text-based forum posts using neural networks</a>
-* <a href="/docs/paper2019">Recurrences, variations, and meaning disputes in the first presidential debates in Argentinian history</a>
+**Examining Algebraic Recombination for Compositional Generalisation**  
+Joaquín Cardona Ruiz, Antske Fokkens, Lucia Donatelli  
+*Accepted at CMCL 2026 — Workshop on Cognitive Modeling and Computational 
+Linguistics (ACL Anthology)*  
+[[Code]](https://github.com/JoaquinCardonaRuiz/thesis-compositionality)
