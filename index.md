@@ -22,7 +22,7 @@ understanding. I am interested in how linguistic structure can inform the design
 and evaluation of AI systems, and in what computational models can reveal about 
 human language and cognition.
 
-**Examining Algebraic Recombination for Compositional Generalisation**  
+**[Examining Algebraic Recombination for Compositional Generalisation](/earcg)**  
 Joaquín Cardona Ruiz, Antske Fokkens, Lucia Donatelli  
 *Accepted at CMCL 2026 — Workshop on Cognitive Modeling and Computational 
 Linguistics (ACL Anthology)*  
