@@ -2,6 +2,7 @@
 
 ## Authors
 Joaquín Cardona Ruiz, Antske Fokkens, Lucia Donatelli
+
 joaquincardonaruiz@gmail.com, antske.fokkens@vu.nl, l.e.donatelli@vu.nl
 
 ## Abstract
