@@ -25,5 +25,5 @@ human language and cognition.
 **[Examining Algebraic Recombination for Compositional Generalisation](/earcg)**  
 Joaquín Cardona Ruiz, Antske Fokkens, Lucia Donatelli  
 *Accepted at CMCL 2026 — Workshop on Cognitive Modeling and Computational 
-Linguistics (ACL Anthology)*  
-[[Code]](https://github.com/JoaquinCardonaRuiz/thesis-compositionality)
+Linguistics*
+https://aclanthology.org/2026.cmcl-1.18/  
